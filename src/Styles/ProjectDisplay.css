@@ -1,0 +1,60 @@
+.project {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+
+  #light  .project h1 {
+    margin-top: 50px;
+    color: #3b444c;
+    font-size: 35px;
+  }
+
+  #dark  .project h1 {
+    margin-top: 50px;
+    color: white;
+    font-size: 35px;
+  }
+  .project h1 {
+    margin-top: 50px;
+    color: #3b444c;
+    font-size: 35px;
+  }
+  .project img {
+    width: 700px;
+    border-radius: 10px;
+  }
+
+  #light .project p {
+    font-size: 40px;
+    color: #3b444c;
+  }
+
+  #dark .project p {
+    font-size: 40px;
+    color: white;
+  }
+  
+  .project p {
+    font-size: 40px;
+    color: #3b444c;
+  }
+  
+
+  #light .project svg {
+    font-size: 60px;
+    color: #3b444c;
+  }
+
+  #dark .project svg {
+    font-size: 60px;
+    color: white;
+  }
+  .project svg {
+    font-size: 60px;
+    color: #3b444c;
+  }
